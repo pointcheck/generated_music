@@ -1,3 +1,6 @@
+// Written by Ruslan Zalata <rz@fabmicro.ru>
+// Ideas from: https://www.youtube.com/watch?v=tCRPUv8V22o
+
 #include <stdio.h>
 #include <stdlib.h>
 
